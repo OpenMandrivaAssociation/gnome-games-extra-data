@@ -11,7 +11,7 @@ License: GPL
 Group: Games/Other
 Url: http://www.gnome.org
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-Requires: gnome-games >= 2.7.7
+Requires: gnome-games >= 2.19.1
 BuildArch: noarch
 
 %description
