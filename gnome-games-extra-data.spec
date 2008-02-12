@@ -15,7 +15,6 @@ Requires: gnome-games >= 2.19.1
 BuildArch: noarch
 
 %description
-
 This contains extra data files such as more artwork for the GNOME games.
 
 %prep
