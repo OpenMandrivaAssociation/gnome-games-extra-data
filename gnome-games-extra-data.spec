@@ -1,6 +1,6 @@
 %define name gnome-games-extra-data
 %define version 2.22.0
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: Extra data files for the GNOME games
 Name: %{name}
