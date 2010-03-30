@@ -1,5 +1,5 @@
 %define name gnome-games-extra-data
-%define version 2.28.0
+%define version 2.30.0
 %define release %mkrel 1
 
 Summary: Extra data files for the GNOME games
@@ -36,9 +36,7 @@ rm -rf $RPM_BUILD_ROOT
 %doc AUTHORS ChangeLog NEWS README
 %_datadir/gnome-games/glines/pixmaps/*
 %_datadir/gnome-games/gnobots2/themes/*.png
-%_datadir/gnome-games/gnometris/pixmaps/*
 %_datadir/gnome-games/iagno/pixmaps/*
 %_datadir/gnome-games/mahjongg/pixmaps/*
 %_datadir/gnome-games-common/cards/*
-%_datadir/gnome-games/same-gnome/themes/2.10/*
 
