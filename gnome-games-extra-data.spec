@@ -1,7 +1,7 @@
 Summary: Extra data files for the GNOME games
 Name: gnome-games-extra-data
 Version: 3.2.0
-Release: 1
+Release: 2
 License: GPL
 Group: Games/Other
 Url: http://www.gnome.org
