@@ -10,6 +10,11 @@ BuildArch: noarch
 
 Requires: gnome-games >= %{version}
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 This contains extra data files such as more artwork for the GNOME games.
 
