@@ -1,7 +1,7 @@
 Summary: Extra data files for the GNOME games
 Name: gnome-games-extra-data
 Version: 3.2.0
-Release: 2
+Release: 3
 License: GPL
 Group: Games/Other
 Url: https://www.gnome.org
@@ -43,7 +43,7 @@ This contains extra data files such as more artwork for the GNOME games.
 - new version 3.2.0
 - cleaned up spec
 
-* Wed Dec 07 2011 Götz Waschk <waschk@mandriva.org> 2.30.0-3
+* Wed Dec 07 2011 GÃ¶tz Waschk <waschk@mandriva.org> 2.30.0-3
 + Revision: 738496
 - yearly rebuild
 
@@ -51,12 +51,12 @@ This contains extra data files such as more artwork for the GNOME games.
 + Revision: 610919
 - rebuild
 
-* Tue Mar 30 2010 Götz Waschk <waschk@mandriva.org> 2.30.0-1mdv2010.1
+* Tue Mar 30 2010 GÃ¶tz Waschk <waschk@mandriva.org> 2.30.0-1mdv2010.1
 + Revision: 529972
 - new version
 - update file list
 
-* Mon Sep 21 2009 Götz Waschk <waschk@mandriva.org> 2.28.0-1mdv2010.0
+* Mon Sep 21 2009 GÃ¶tz Waschk <waschk@mandriva.org> 2.28.0-1mdv2010.0
 + Revision: 446591
 - new version
 - update file list
@@ -65,7 +65,7 @@ This contains extra data files such as more artwork for the GNOME games.
 + Revision: 437766
 - rebuild
 
-* Sun Mar 15 2009 Götz Waschk <waschk@mandriva.org> 2.26.0-1mdv2009.1
+* Sun Mar 15 2009 GÃ¶tz Waschk <waschk@mandriva.org> 2.26.0-1mdv2009.1
 + Revision: 355388
 - new version
 - update file list
@@ -78,14 +78,14 @@ This contains extra data files such as more artwork for the GNOME games.
 + Revision: 246407
 - rebuild
 
-* Mon Mar 24 2008 Götz Waschk <waschk@mandriva.org> 2.22.0-1mdv2008.1
+* Mon Mar 24 2008 GÃ¶tz Waschk <waschk@mandriva.org> 2.22.0-1mdv2008.1
 + Revision: 189794
 - new version
 
   + Thierry Vignaud <tv@mandriva.org>
     - fix spacing at top of description
 
-* Sun Feb 10 2008 Götz Waschk <waschk@mandriva.org> 2.21.91-1mdv2008.1
+* Sun Feb 10 2008 GÃ¶tz Waschk <waschk@mandriva.org> 2.21.91-1mdv2008.1
 + Revision: 164805
 - new version
 
@@ -95,32 +95,32 @@ This contains extra data files such as more artwork for the GNOME games.
   + Thierry Vignaud <tv@mandriva.org>
     - kill re-definition of %%buildroot on Pixel's request
 
-* Tue Sep 18 2007 Götz Waschk <waschk@mandriva.org> 2.20.0-1mdv2008.0
+* Tue Sep 18 2007 GÃ¶tz Waschk <waschk@mandriva.org> 2.20.0-1mdv2008.0
 + Revision: 89468
 - new version
 
-* Wed Aug 01 2007 Götz Waschk <waschk@mandriva.org> 2.19.2-1mdv2008.0
+* Wed Aug 01 2007 GÃ¶tz Waschk <waschk@mandriva.org> 2.19.2-1mdv2008.0
 + Revision: 57355
 - new version
 - new version
 - bump deps
 
-* Wed May 02 2007 Götz Waschk <waschk@mandriva.org> 2.18.0-1mdv2008.0
+* Wed May 02 2007 GÃ¶tz Waschk <waschk@mandriva.org> 2.18.0-1mdv2008.0
 + Revision: 20385
 - new version
 
 
-* Tue Jan 23 2007 Götz Waschk <waschk@mandriva.org> 2.17.90-1mdv2007.0
+* Tue Jan 23 2007 GÃ¶tz Waschk <waschk@mandriva.org> 2.17.90-1mdv2007.0
 + Revision: 112231
 - Import gnome-games-extra-data
 
-* Tue Jan 23 2007 Götz Waschk <waschk@mandriva.org> 2.17.90-1mdv2007.1
+* Tue Jan 23 2007 GÃ¶tz Waschk <waschk@mandriva.org> 2.17.90-1mdv2007.1
 - New version 2.17.90
 
-* Fri Jul 21 2006 Götz Waschk <waschk@mandriva.org> 2.14.0-2mdk
+* Fri Jul 21 2006 GÃ¶tz Waschk <waschk@mandriva.org> 2.14.0-2mdk
 - Rebuild
 
-* Sun Apr 23 2006 Götz Waschk <waschk@mandriva.org> 2.14.0-1mdk
+* Sun Apr 23 2006 GÃ¶tz Waschk <waschk@mandriva.org> 2.14.0-1mdk
 - New release 2.14.0
 
 * Mon Feb 27 2006 Frederic Crozat <fcrozat@mandriva.com> 2.12.0-3mdk
@@ -129,16 +129,16 @@ This contains extra data files such as more artwork for the GNOME games.
 * Wed Oct 19 2005 Frederic Crozat <fcrozat@mandriva.com> 2.12.0-2mdk
 - Use correct configure macro
 
-* Fri Oct 07 2005 Götz Waschk <waschk@mandriva.org> 2.12.0-1mdk
+* Fri Oct 07 2005 GÃ¶tz Waschk <waschk@mandriva.org> 2.12.0-1mdk
 - New release 2.12.0
 
-* Thu Apr 21 2005 G�tz Waschk <waschk@mandriva.org> 2.10.0-2mdk
+* Thu Apr 21 2005 Götz Waschk <waschk@mandriva.org> 2.10.0-2mdk
 - rebuild
 
-* Thu Apr 21 2005 G�tz Waschk <waschk@mandriva.org> 2.10.0-1mdk
+* Thu Apr 21 2005 Götz Waschk <waschk@mandriva.org> 2.10.0-1mdk
 - update file list
 - New release 2.10.0
 
-* Wed Nov 10 2004 G�tz Waschk <waschk@linux-mandrake.com> 2.8.0-1mdk
+* Wed Nov 10 2004 Götz Waschk <waschk@linux-mandrake.com> 2.8.0-1mdk
 - initial package
 
